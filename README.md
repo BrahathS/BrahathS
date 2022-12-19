@@ -9,4 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+##Snaking eating contribution graph
+![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.gif)
