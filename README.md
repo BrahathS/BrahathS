@@ -14,8 +14,8 @@
 <a href="https://twitter.com/iambrahath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iambrahath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brahath-shet-90b07018b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahath-shet-90b07018b" height="30" width="40" /></a>
 <a href="https://instagram.com/s_brahath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_brahath" height="30" width="40" /></a>
+<a href="https://www.behance.net/brahathshet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brahathshet" height="30" width="40" /></a>
 </p>
-
 
 <!--   <a href="https://kaggle.com/brahathshet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brahathshet" height="30" width="40" /></a> -->
 
