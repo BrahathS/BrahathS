@@ -51,5 +51,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&layout=compact)](https://github.com/BrahathS/github-readme-stats)
 
 
-## Snake eating contribution graph
+<!-- ## Snake eating contribution graph -->
 ![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.gif)
