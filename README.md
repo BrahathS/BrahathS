@@ -61,9 +61,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrahathS&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
- [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ## Snake eating contribution graph -->
+# 🐍
 ![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.gif)
 
 
@@ -91,8 +91,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrahathS&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-<!--  [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in) -->
- 
+
+  [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in) 
+  
 <!-- 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
