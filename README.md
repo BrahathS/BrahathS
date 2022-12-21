@@ -67,7 +67,6 @@ You can click the Preview link to take a look at your changes.
 ![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.gif)
 
 
-
 <!-- +++++++EXTRAS++++++++  -->
  <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
