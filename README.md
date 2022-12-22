@@ -52,10 +52,6 @@
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
-<!-- -
-BrahathS/BrahathS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
@@ -66,7 +62,10 @@ You can click the Preview link to take a look at your changes.
 # 🐍 Snake eating contribution graph
 ![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.svg)
 
-
+<!-- -
+BrahathS/BrahathS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- -->
 
 <!-- +++++++EXTRAS++++++++  -->
  <!-- <h3 align="left">Connect with me:</h3> -->
