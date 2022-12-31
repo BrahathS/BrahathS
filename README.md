@@ -2,6 +2,10 @@
 <h3 align="center">As an avid enthusiast of artificial intelligence and machine learning, I am deeply passionate about exploring and utilizing the limitless potential of these cutting-edge technologies. Whether through research or practical application, I am consistently motivated to push the boundaries of what is possible with AI and machine learning, and to harness their incredible power to solve complex problems and improve the world around us. I am also endlessly interested in building and developing new technology in order to further advance the field and make a positive impact on society. </h3>
 <h3 align="center">🌱 I’m currently studying CS </h3>
 
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=brahaths&label=Profile%20views&color=0e75b6&style=flat" alt="brahaths" /> </p>
+ 
+<!--    [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in)  -->
+
 <p align="left"> <a href="https://twitter.com/iambrahath" target="blank"><img src="https://img.shields.io/twitter/follow/iambrahath?logo=twitter&style=for-the-badge" alt="iambrahath" /></a> </p>
 
 ### ✍️ Random Dev Quote
@@ -62,9 +66,7 @@
 # 🐍 Snake eating contribution graph
 ![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.svg)
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahaths&label=Profile%20views&color=0e75b6&style=flat" alt="brahaths" /> </p>
- 
-   [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in) 
+
 
 <!-- -
 BrahathS/BrahathS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
