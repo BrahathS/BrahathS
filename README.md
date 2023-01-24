@@ -56,11 +56,11 @@
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
-
+<!---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
+ ![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrahathS&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/> --->
 
 <!-- ## Snake eating contribution graph -->
 # 🐍 Snake eating contribution graph
