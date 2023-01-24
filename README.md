@@ -6,7 +6,7 @@
  
 <!--    [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in)  -->
 
-<p align="left"> <a href="https://twitter.com/iambrahath" target="blank"><img src="https://img.shields.io/twitter/follow/iambrahath?logo=twitter&style=for-the-badge" alt="iambrahath" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/iambrahath" target="blank"><img src="https://img.shields.io/twitter/follow/iambrahath?logo=twitter&style=for-the-badge" alt="iambrahath" /></a> </p> -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
