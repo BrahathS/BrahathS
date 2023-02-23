@@ -57,9 +57,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrahathS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrahathS&theme=dark&hide_border=false)<br/> <br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </centre>
 
 
 <!-- ## Snake eating contribution graph -->
