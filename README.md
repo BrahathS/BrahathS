@@ -63,8 +63,8 @@
 
 
 <!-- ## Snake eating contribution graph -->
-<!-- # 🐍 Snake eating 2022 contribution graph -->
-<!-- ![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.svg) -->
+# 🐍 Snake eating 2022 contribution graph
+![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.svg)
 
 
 
