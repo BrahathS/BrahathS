@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brahath Shet</h1>
 <h3 align="center">As an avid enthusiast of artificial intelligence and machine learning, I am deeply passionate about exploring and utilizing the limitless potential of these cutting-edge technologies. Whether through research or practical application, I am consistently motivated to push the boundaries of what is possible with AI and machine learning, and to harness their incredible power to solve complex problems and improve the world around us. I am also endlessly interested in building and developing new technology in order to further advance the field and make a positive impact on society. </h3>
 <h3 align="center">🌱 I’m currently studying CS </h3>
-
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=brahaths&label=Profile%20views&color=0e75b6&style=flat" alt="brahaths" /> </p>
  
 <!--    [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in)  -->
 
-<!-- <p align="left"> <a href="https://twitter.com/iambrahath" target="blank"><img src="https://img.shields.io/twitter/follow/iambrahath?logo=twitter&style=for-the-badge" alt="iambrahath" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/iambrahath" target="blank"><img src="https://img.shields.io/twitter/follow/iambrahath?logo=twitter&style=for-the-badge" alt="iambrahath" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -61,6 +59,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrahathS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahathS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </centre>
 
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=brahaths&label=Profile%20views&color=0e75b6&style=flat" alt="brahaths" /> </p>
 
 <!-- ## Snake eating contribution graph -->
 <!-- # 🐍 Snake eating 2022 contribution graph
