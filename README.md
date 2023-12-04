@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brahath Shet</h1>
 <h3 align="center">As an avid enthusiast of artificial intelligence and machine learning, I am deeply passionate about exploring and utilizing the limitless potential of these cutting-edge technologies. Whether through research or practical application, I am consistently motivated to push the boundaries of what is possible with AI and machine learning, and to harness their incredible power to solve complex problems and improve the world around us. I am also endlessly interested in building and developing new technology in order to further advance the field and make a positive impact on society. </h3>
-<h3 align="center">🌱 I’m currently studying CS </h3>
+<h3 align="center">🌱 I’m recently graduated from Goldsmith University of London </h3>
  
 <!--    [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in)  -->
 
