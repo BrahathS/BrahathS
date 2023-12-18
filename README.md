@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brahath Shet</h1>
 <h3 align="center">As an avid enthusiast of artificial intelligence and machine learning, I am deeply passionate about exploring and utilizing the limitless potential of these cutting-edge technologies. Whether through research or practical application, I am consistently motivated to push the boundaries of what is possible with AI and machine learning, and to harness their incredible power to solve complex problems and improve the world around us. I am also endlessly interested in building and developing new technology in order to further advance the field and make a positive impact on society. </h3>
-<h3 align="center">🌱 I’m currently studying CS </h3>
+<h3 align="center">🌱 I’m a CS Graduate </h3>
  
 <!--    [![](https://visitcount.itsvg.in/api?id=BrahathS&icon=5&color=6)](https://visitcount.itsvg.in)  -->
 
@@ -54,6 +54,12 @@
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+
+<!-- ## Snake eating contribution graph -->
+<!-- # 🐍 Snake eating 2022 contribution graph
+![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- -
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrahathS&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrahathS&theme=dark&hide_border=false)<br/>
@@ -61,13 +67,6 @@
 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=brahaths&label=Profile%20views&color=0e75b6&style=flat" alt="brahaths" /> </p>
 
-<!-- ## Snake eating contribution graph -->
-<!-- # 🐍 Snake eating 2022 contribution graph
-![snake gif](https://github.com/BrahathS/BrahathS/blob/output/github-contribution-grid-snake.svg) -->
-
-
-
-<!-- -
 BrahathS/BrahathS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - -->
