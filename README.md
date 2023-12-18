@@ -10,7 +10,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - 📫 How to reach me **shetbrahath+contactme@gmail.com**
- - 🔭 I’m currently working on **computer vision**
+ - 🔭 I’m currently open to work **Freelance and Jobs**
+ - Working on personal side project to upskill. 
 <!-- - 👨‍💻 All of my projects are available at **[https://www.doc.gold.ac.uk/~bshet001/website/index.html](https://www.doc.gold.ac.uk/~bshet001/website/index.html)** -->
 
 ## 🌐 Socials:
